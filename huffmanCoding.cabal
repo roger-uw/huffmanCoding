@@ -2,10 +2,10 @@ name:                huffmanCoding
 version:             0.1.0.0
 synopsis:            Initial project template from stack
 description:         Please see README.md
-homepage:            https://github.com/githubuser/huffmanCoding#readme
+homepage:            https://github.com/Roger-UW/huffmanCoding#readme
 license:             BSD3
 license-file:        LICENSE
-author:              Author name here
+author:              Roger F
 maintainer:          example@example.com
 copyright:           2016 Author name here
 category:            Web
